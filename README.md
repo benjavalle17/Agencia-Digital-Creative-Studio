@@ -21,4 +21,4 @@ styles.css: El diseño y los colores.
 
 script.js: El formulario dinámico.
 
-Informe_CreativeStudio_Grupo15.docx: El informe completo de la realización de esta actividad
+Informe_CreativeStudio_Grupo15.docx: El informe completo de la realización de esta actividad.
