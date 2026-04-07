@@ -1,7 +1,7 @@
 # Agencia-Digital-Creative-Studio
 Proyecto Agencia Digital - Creative Studio
 
-Este es el sitio web de nuestra agencia para la actividad formativa de la  Semana 3. Lo hicimos usando HTML, CSS y un poco de JavaScript para que sea interactivo.
+Este es el sitio web de nuestra agencia para la actividad sumativa de la  Semana 3. Lo hicimos usando HTML, CSS y un poco de JavaScript para que sea interactivo.
 
 
 - El Equipo
